@@ -3,3 +3,4 @@
 **/__pycache__
 .DS_Store
 .vscode/settings.json
+ground_truth_labeling_jobs/from_unlabeled_data_to_deployed_machine_learning_model_ground_truth_demo_image_classification/from_unlabeled_data_to_deployed_machine_learning_model_ground_truth_demo_image_classification.ipynb
